@@ -157,10 +157,10 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Vcsk/RobloxScripts/ma
 })
 
 
-local Button = pvpTab:CreateButton({
-   Name = "kill aura👊",
-   Callback = function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Bebo-Mods/BeboScripts/main/AnimalSimulator.lua"))()
-   -- The function that takes place when the button is pressed
-   end,
-})
+
+
+
+
+
+
+
